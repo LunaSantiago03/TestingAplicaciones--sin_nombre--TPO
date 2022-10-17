@@ -1,6 +1,6 @@
 # Testing de Aplicaciones: Trabajo Práctico Obligatorio
 ## Nombre del equipo
-- 'Sin Nombre (aun)'
+- 'Los Sintra'
 ## Integrantes
 - 'Luna Santiago Tobias Integrante 1'
 - 'Elisa Correa Integrante 2'
